@@ -1,0 +1,25 @@
+{
+  "name": "wolfapi.js",
+  "version": "0.1.0-alpha.0",
+  "description": "WOLF.LIVE Public API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher-wolflive/wolfapi.js.git"
+  },
+  "keywords": [
+    "WOLF",
+    "PALRINGO",
+    "WOLFLIVE",
+    "WOLF.LIVE"
+  ],
+  "author": "christopher.koster@wolf.live",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/christopher-wolflive/wolfapi.js/issues"
+  },
+  "homepage": "https://github.com/christopher-wolflive/wolfapi.js#readme"
+}
